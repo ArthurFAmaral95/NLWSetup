@@ -35,6 +35,8 @@ button {
   font-weight: 600;
   font-size: 16px;
   line-height: 125%;
+
+  cursor: pointer;
 }
 
 #form-habits {
@@ -88,6 +90,7 @@ input {
   border: 2px solid #27272a;
   border-radius: 8px;
   background: #18181b;
+  cursor: pointer;
 }
 
 input:checked {
